@@ -1,5 +1,7 @@
 # Welcome to Tuck organization page...
-
+<p align="center">
+  <img src="icon_bw.jpg" height="300">
+</p>
 ### Redefining the Future of Sovereign Computing
 
 We are a technology entity dedicated to returning digital agency to the individual. Our mission is to engineer the infrastructure for a world where artificial intelligence is powerful, autonomous, and—above all—private.
