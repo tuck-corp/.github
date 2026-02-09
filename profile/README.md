@@ -1,6 +1,6 @@
 # Welcome to Tuck organization page...
 <p align="center">
-  <img src="icon_bw.jpg" height="300">
+  <img src="../icon_bw.jpg" height="300">
 </p>
 ### Redefining the Future of Sovereign Computing
 
